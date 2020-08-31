@@ -1,1 +1,7 @@
-theme: jekyll-theme-architect
+title: AracPac
+email: mo@aracpac.com
+google_analytics:
+description: Full-stack web development environments bootstrapped with all the tools you’d expect.
+theme: jekyll-theme-cayman
+banner_image: aracpac-cirlce.png
+banner_link: https://github.com/aracpac/aracpac-packer-builds

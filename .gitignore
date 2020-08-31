@@ -1,10 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
-### IDEA
-.idea/
-
-### Jekyll template
-_site/
-.sass-cache/
-.jekyll-cache/
+.idea
+_site
+.sass-cache
 .jekyll-metadata
-
