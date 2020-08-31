@@ -5,3 +5,5 @@ description: Full-stack web development environments bootstrapped with all the t
 theme: jekyll-theme-cayman
 banner_image: aracpac-cirlce.png
 banner_link: https://github.com/aracpac/aracpac-packer-builds
+github:
+  is_project_page: true
