@@ -1,5 +1,5 @@
 # AracPac
-Need a full stack web development environment on your MacOs, linux, or Windows machine? AracPac's got you covered:
+Need a full stack web development environment on your MacOs, linux, or Windows machine? AracPac's got you covered.
 
 ## Basic usage: images hosted on Vagrant Cloud
 * install [vagrant](https://www.vagrantup.com/docs/installation)
@@ -9,7 +9,7 @@ Need a full stack web development environment on your MacOs, linux, or Windows m
   * [Ubuntu 20.04 LTS](https://raw.githubusercontent.com/aracpac/aracpac-vagrantfiles/master/ubuntu20/Vagrantfile)
   * [CentOs 8](https://raw.githubusercontent.com/aracpac/aracpac-vagrantfiles/master/ubuntu20/Vagrantfile)
 * navigate to the directory and `vagrant up`
-* access the box at https://dev.local/
+* access the box at [https://dev.local/](https://dev.local/)
 
 ## Advanced usage: images built from sources
 To build a box from scratch:
