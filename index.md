@@ -3,7 +3,7 @@ Need a full stack web development environment on your MacOs, linux, or Windows m
 
 ## Basic usage: images hosted on Vagrant Cloud
 * install [vagrant](https://www.vagrantup.com/docs/installation)
-  * install vagrant plugins: `vagrant plugin install vagrant-hostmanager`
+* install vagrant plugins: `vagrant plugin install vagrant-hostmanager`
 * install [virtualbox](https://www.virtualbox.org/wiki/Downloads)
 * download an AracPac Vagrantfile to an empty directory:
   * [Ubuntu 20.04 LTS](https://raw.githubusercontent.com/aracpac/aracpac-vagrantfiles/master/ubuntu20/Vagrantfile)
