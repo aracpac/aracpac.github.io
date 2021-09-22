@@ -8,8 +8,6 @@ out-of-the-box support for a variety of full stack web development frameworks, i
 * ✅ Django
 * ✅ ASP.Net
 
-####
-
 Check the latest releases on https://app.vagrantup.com/aracpac/ for comprehensive notes on the current configurations.
 
 ## Usage
