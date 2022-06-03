@@ -25,5 +25,5 @@ To modify the build and create an image catered to your needs:
 * modify the packer, shell, or ansible configuration files
 * build a box: `cd centos8-stream && packer build packer.json`
 * once the build is complete, your image will be in the `./builds` directory. you can now add it to your local vagrant 
-collection `vagrant box add centos8-stream-v1.4.0 builds/centos8-v1.4.0.box` or upload it to https://app.vagrantup.com/
+collection `vagrant box add centos9-stream-v2.0.0 builds/centos9-v2.0.0.box` or upload it to https://app.vagrantup.com/
 and share it with the world.
